@@ -9,7 +9,7 @@
 
 - 👨‍💻 I plan to learn **React / Redux / TypeScript / WebSockets / Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js**
 
-- 📫 How to reach me **TG: @Donnie_Ergo**
+- 📫 How to reach me - **Telegram: @Donnie_Ergo**
 
 - ⚡ Skills are heavy WIP **Come back in 2022**
 
