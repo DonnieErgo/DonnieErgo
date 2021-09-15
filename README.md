@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Yandex Practicum projects (practice)**
 
-- 🌱 I’m currently learning **HTML / CSS / JS**
+- 🌱 I’m currently learning **Vanilla JS**
 
 - 👨‍💻 I plan to learn **React / Redux / TypeScript / WebSockets / Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js**
 
