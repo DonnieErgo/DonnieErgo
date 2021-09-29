@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mikhail</h1>
 <h3 align="center">A beginner web developer from Russia</h3>
 
-<p align="left"> <img src="https://www.codewars.com/users/DonnieErgo/badges/large" alt="donnieergo" /> </p>
+<p align="left"> <img src="https://www.codewars.com/users/DonnieErgo/badges/small" alt="donnieergo" /> </p>
 
 - 🔭 I’m currently working on **Yandex Practicum projects (practice)**
 
