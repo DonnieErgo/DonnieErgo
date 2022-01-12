@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Yandex Practicum practice projects**
 
-- 🌱 I’m currently learning **Vanilla JS**
+- 🌱 I’m currently learning **Vanilla JS / React**
 
-- 👨‍💻 I plan to learn **React / Redux / TypeScript / WebSockets / Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js**
+- 👨‍💻 I plan to learn **Redux / TypeScript / WebSockets / Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js**
 
 - 📫 Reach me via telegram: **@Donnie_Ergo**
 
