@@ -9,8 +9,6 @@
 
 - 👨‍💻 I plan to learn **Redux / TypeScript / WebSockets / Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js**
 
-- 📫 Reach me via telegram at **@Donnie_Ergo** or e-mail at **mikhail@nenashev.dev**
-
 - ⚡ Skills are heavy WIP **Please come back in 2022**
 
 
