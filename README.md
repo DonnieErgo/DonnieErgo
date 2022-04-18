@@ -1,16 +1,28 @@
-<h1 align="center">Hi, my name is Mikhail</h1>
+<h2 align="center">Hi, my name is Mikhail <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="center">A beginner web developer from Russia</h3>
 
-<p align="left"> <img src="https://www.codewars.com/users/DonnieErgo/badges/small" alt="donnieergo" /> </p>
+<p align="center">
+<a href="https://linkedin.com/in/mikhailnenashev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mikhailnenashev" height="30" width="30" /></a>&nbsp;    <a href="http://discord.com/users/Donnie_Ergo#1412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Donnie_Ergo#1412" height="40" width="30" /></a>
+</p>
+
 
 - 🔭 I’m currently working on **Yandex Practicum practice projects**
 
-- 🌱 I’m currently learning **Vanilla JS / React**
+- 🌱 I’m currently practicing **Vanilla JS / React / Redux (RTK) / Router**
 
-- 👨‍💻 I plan to learn **Redux / TypeScript / WebSockets / Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js**
+- 👨‍💻 I plan to learn **TypeScript / Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js**
 
-- ⚡ Skills are heavy WIP **Please come back in 2022**
+- ⚡ Skills are heavy WIP - **I learn more stuff every day**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+<img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="65" height="65"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="65" height="65"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="65" height="65"/> 
+<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="65" height="65"/>
+<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="65" height="65"/> 
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="65" height="65"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" alt="redux" width="65" height="65"/>
+<img src="https://seeklogo.com/images/R/reactrouter-logo-4572B114B5-seeklogo.com.png" alt="router" width="130" height="65"/> 
+</p>
