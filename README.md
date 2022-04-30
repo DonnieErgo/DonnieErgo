@@ -22,6 +22,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="65" height="65"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="65" height="65"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="65" height="65"/> </a>
+<a href="https://www.typescriptlang.org/" target="blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="ts" width="65" height="65"/> </a>
 <a href="https://webpack.js.org/" target="blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="65" height="65"/> </a>
 <a href="https://reactjs.org/" target="blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="65" height="65"/> </a>
 <a href="https://redux.js.org/" target="blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" alt="redux" width="65" height="65"/> </a>
