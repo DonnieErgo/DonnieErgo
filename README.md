@@ -6,11 +6,11 @@
 </p>
 
 
-- 🔭 I’m currently working on **Yandex Practicum practice projects**
+- 🔭 I’m currently working on **Different practice projects**
 
-- 🌱 I’m currently practicing **Vanilla JS / React / Redux (RTK) / Router**
+- 🌱 I’m currently practicing **Vanilla JS / React / Redux (RTK) / Router / TypeScript**
 
-- 👨‍💻 I plan to learn **TypeScript / Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js**
+- 👨‍💻 I plan to learn **Jest / Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js**
 
 - ⚡ Skills are heavy WIP - **I learn more stuff every day**
 
