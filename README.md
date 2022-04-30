@@ -2,7 +2,7 @@
 <h3 align="center">A beginner web developer from Russia</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/mikhailnenashev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mikhailnenashev" height="30" width="30" /></a>&nbsp;    <a href="http://discord.com/users/Donnie_Ergo#1412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Donnie_Ergo#1412" height="40" width="30" /></a>
+<a href = "mailto: mikhail@nenashev.dev"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mikhail@nenashev.dev" height="30" width="30" /></a> <a href="https://linkedin.com/in/mikhailnenashev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mikhailnenashev" height="30" width="30" /></a>&nbsp;    <a href="http://discord.com/users/Donnie_Ergo#1412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Donnie_Ergo#1412" height="40" width="30" /></a> 
 </p>
 
 
