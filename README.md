@@ -9,8 +9,6 @@
 
 - 🔭 I am currently working as a **Frontend Developer**
 
-- 🌱 Stack - **TypeScript / React / Redux (RTK) / Jest / Node.js (Express) / MongoDB**
+- 🌱 Stack - **TypeScript / React / Redux (RTK) / Jest / Node.js (Express/Nest) / MongoDB and PostgreSQL**
 
-- 👨‍💻 Learning **Nest.js / PostgreSQL / React Native**
-
-- ⚡ **I learn more stuff every day and I'm loving it**
+- 👨‍💻 Learning **React Native**
