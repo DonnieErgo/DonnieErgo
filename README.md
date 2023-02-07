@@ -11,4 +11,4 @@
 
 - 🌱 Stack - **TypeScript / React / Redux (RTK) / Jest / Node.js (Express/Nest) / MongoDB and PostgreSQL**
 
-- 👨‍💻 Learning **React Native**
+- 👨‍💻 Trying out **NextJS / Remix**
