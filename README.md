@@ -9,6 +9,6 @@
 
 - 🔭 I am currently working as a **Frontend Developer**
 
-- 🌱 Stack - **TypeScript / React / Redux (RTK) / Jest / Node.js (Express/Nest) / MongoDB and PostgreSQL**
+- 🌱 Stack - **TypeScript / Vue3+Pinia / React+ReduxToolkit+Context / Jest / Node.js (Express/Nest) / MongoDB and PostgreSQL**
 
-- 👨‍💻 Trying out **NextJS / Remix**
+- 👨‍💻 Trying out **Vue 3 with Composition API**
