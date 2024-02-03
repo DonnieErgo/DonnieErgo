@@ -10,5 +10,3 @@
 - 🔭 I am currently working as a **Frontend Developer**
 
 - 🌱 Stack - **TypeScript / Vue3+Pinia / React+RTK / Jest / Node.js (Express/Nest) / MongoDB and PostgreSQL**
-
-- 👨‍💻 Trying out **NEXT.js**
