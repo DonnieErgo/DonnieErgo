@@ -9,4 +9,9 @@
 
 - 🔭 I am currently working as a **Frontend Developer**
 
-- 🌱 Tech Stack - **TypeScript / React+RTK / Angular 12+ / Vue3+Pinia / Jest+Cypress / Node.js (Express/Nest) / MongoDB and PostgreSQL**
+- 🌱 Tech Stack:
+  - TypeScript
+  - React+RTK / Vue3+Pinia / Angular 10+
+  - Jest and Cypress
+  - Node.js via Express/Nest
+  - MongoDB and PostgreSQL
