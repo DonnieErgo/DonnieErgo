@@ -2,11 +2,11 @@
 <h3 align="center">Web Developer with a bias towards simple and aesthetic code</h3>
 
 
-- 🔭 I am currently working as a **Frontend Developer**
+- 🔭 I am currently working as a **Development Team Lead**
 
 - 🌱 Tech Stack:
   - TypeScript
+  - Node.js via Express/Nest
   - React+RTK / Vue3+Pinia / Angular 10+
   - Jest and Cypress
-  - Node.js via Express/Nest
   - MongoDB and PostgreSQL
